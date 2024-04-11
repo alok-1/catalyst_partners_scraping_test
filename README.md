@@ -17,14 +17,17 @@ git clone https://github.com/alok-1/catalyst_partners_scraping_test.git
         ```
     b.  Activate enviroment 
         windows: 
+
         ``` 
         ./virtual_env_name/script/activate 
         ```
         linux:
+
         ``` 
         source ./virtual_env_name/bin/activate
         ```
     c. Run command 
+    
         ```
          pip install -r requirements.txt 
         ```
