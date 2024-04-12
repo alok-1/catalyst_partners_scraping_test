@@ -30,12 +30,12 @@ git clone https://github.com/alok-1/catalyst_partners_scraping_test.git
 3. run command 
     a. for nevadaepro
        
-        __python .\nevadaepro.py https://nevadaepro.com/bso/view/search/external/advancedSearchBid.xhtml?openBids=true__
+        **python .\nevadaepro.py https://nevadaepro.com/bso/view/search/external/advancedSearchBid.xhtml?openBids=true**
 
         
 
     b. for our_schools
         
-        __python .\our_schools.py https://isd110.org/our-schools/laketown-elementary/staff-directory__
+        **python .\our_schools.py https://isd110.org/our-schools/laketown-elementary/staff-directory**
 
        
