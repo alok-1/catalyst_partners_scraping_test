@@ -27,8 +27,15 @@ git clone https://github.com/alok-1/catalyst_partners_scraping_test.git
 
          pip install -r requirements.txt 
         
-3. run command
-```bash
-python .\nevadaepro.py https://nevadaepro.com/bso/view/search/external/advancedSearchBid.xhtml?openBids=true
+3. run command 
+    a. for nevadaepro
+        ```bash
+        python .\nevadaepro.py https://nevadaepro.com/bso/view/search/external/advancedSearchBid.xhtml?openBids=true
 
-```
+        ```
+
+    b. for our_schools
+        ```bash
+        python .\our_schools.py https://isd110.org/our-schools/laketown-elementary/staff-directory
+
+        ```
